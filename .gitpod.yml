@@ -1,1 +1,1 @@
-image: openjdk:17-slim
+image: openjdk:17
