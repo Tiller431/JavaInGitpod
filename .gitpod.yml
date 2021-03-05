@@ -1,1 +1,1 @@
-image: openjdk:17
+image: openjdk:17-jdk
